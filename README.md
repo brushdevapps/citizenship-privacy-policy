@@ -58,10 +58,3 @@ The App may reference external resources such as uscis.gov for official study ma
 ## Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time. Changes will be reflected by updating the "Last updated" date at the top of this page. Continued use of the App after changes constitutes acceptance of the updated policy.
-
-## Contact Us
-
-If you have questions about this Privacy Policy, contact us at:
-
-**Brush Apps**
-Email: support@brushapps.com
